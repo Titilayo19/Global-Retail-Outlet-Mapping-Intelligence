@@ -1,0 +1,434 @@
+OSM_ID,Object_Type,Business_Name,Brand,Shop_Category,Amenity_Category,Phone,Email,Website,Opening_Hours,Street,City,Postcode,Latitude,Longitude,Duplicate_Name_Flag,Business_Category,Category_Status,Latitude_Zone,Longitude_Zone
+31445570,node,Millipat Plaza,,mall,,,,,,,,,9.0327607,7.4430199,False,mall,Classified,2,3
+31450344,node,Fish,,,restaurant,,,,,,,,9.0472689,7.5362034,False,restaurant,Classified,3,4
+541871957,node,Manan,,supermarket,,,,,,,,,9.0405241,7.525267,False,supermarket,Classified,2,4
+560983277,node,Bukkateen,,,restaurant,,,,,,,,9.0405615,7.4654403,False,restaurant,Classified,2,3
+889008138,node,Mr Biggs,,,fast_food,,,,,,,,9.0619204,7.4176986,False,fast_food,Classified,3,2
+889062199,node,Stalls,,convenience,,,,,,,,,9.0580872,7.4029158,False,convenience,Classified,3,2
+893689255,node,,,electronics,,,,,,,,,9.0687641,7.4819961,False,electronics,Classified,3,3
+1611132419,node,,,,pharmacy,,,,,,,,9.0108859,7.5750975,False,pharmacy,Classified,2,4
+2216184200,node,Reno's,,,restaurant,,,,,,,,9.0723109,7.4908125,False,restaurant,Classified,3,3
+2941745556,node,Panama Balangu,,,restaurant,,,,,,,,9.1064084,7.4842151,False,restaurant,Classified,3,3
+4213114489,node,shoplifter apo,,convenience,,,,,,,,,8.8254188,7.2716057,False,convenience,Classified,0,0
+4219094797,node,Panache,,,restaurant,+23496233313,,,Mo-Su 11:00-22:00,Herbert Macaulay Way,,,9.0523088,7.485962,False,restaurant,Classified,3,3
+4234317389,node,Pizzarama,,,fast_food,,,,,Adetokunbo Ademola Crescent,,,9.0723578,7.4890086,False,fast_food,Classified,3,3
+4235488038,node,Southern Fried Chicken,,,cafe,,,,,,,,9.0617923,7.4180455,True,cafe,Classified,3,2
+4237933928,node,Game,Game,supermarket,,,,,,,,,9.0772175,7.4258386,False,supermarket,Classified,3,2
+4237933929,node,Shoprite,Shoprite,supermarket,,,,https://www.shoprite.com.ng/,Mo-Su 09:00-21:00,Jabi Lake Mall,Abuja,240102,9.0755695,7.4250593,True,supermarket,Classified,3,2
+4239609893,node,O'Neil Centre,,mall,,,,,,,,,9.0656797,7.4288178,False,mall,Classified,3,2
+4239609894,node,,,,pharmacy,,,,,,,,9.065223,7.4276741,False,pharmacy,Classified,3,2
+4239611289,node,Classic,,supermarket,,,,,,,,,9.0652842,7.4278349,False,supermarket,Classified,3,2
+4549849154,node,salt source,,supermarket,,,,,,,,,9.0777921,7.4979244,False,supermarket,Classified,3,3
+4549849155,node,,,,pharmacy,,,,,,,,9.1040241,7.4925275,False,pharmacy,Classified,3,3
+4549849156,node,,,,pharmacy,,,,,,,,9.0776868,7.4996363,False,pharmacy,Classified,3,3
+4599721500,node,Kafeteria,,,cafe,,,,,,,,9.0764448,7.4249562,False,cafe,Classified,3,2
+4599721501,node,Sumptuous,,,cafe,,,,,,,,9.076732,7.4251792,False,cafe,Classified,3,2
+4637364692,node,traffic,,,restaurant,,,,,,,,9.1021327,7.4805193,False,restaurant,Classified,3,3
+4637395590,node,river plate secret garden,,,restaurant,,,,,,,,9.0699244,7.4896341,False,restaurant,Classified,3,3
+4760503230,node,under the mango tree,,,cafe,,,,,,,,9.0558721,7.4766597,False,cafe,Classified,3,3
+4994567223,node,lugbe Plaza,,supermarket,,,,,,"Phase 2, FHA",fct abuja,,8.9909315,7.3550821,False,supermarket,Classified,2,1
+5022768921,node,Oceanic Bakery,,convenience,,,,,,,,,9.0701517,7.4892571,False,convenience,Classified,3,3
+5180885221,node,Duo,,beverages,,,,,,,,,9.0725284,7.4684326,False,beverages,Classified,3,3
+5226030821,node,poisson,,,restaurant,,,,,,,,9.0760557,7.4733216,False,restaurant,Classified,3,3
+5287762249,node,Juliana house,,books,,,,,,Galadimawa,,,8.9951075,7.4156605,False,books,Classified,2,2
+5318091721,node,Ita House,,convenience,,,,,,Maman Nasir,,,9.0325833,7.5196483,False,convenience,Classified,2,4
+5318091821,node,ISS,,pet,,,,,,Usman Dam,,,9.19601,7.40352,False,pet,Classified,4,2
+5352278322,node,Roses Hotel Limited,,books,,,,,,Durumi District,,,9.0208767,7.46518,False,books,Classified,2,3
+5448332307,node,Oriental Restaurant,,,restaurant,,,,,,,,9.074629,7.4946321,False,restaurant,Classified,3,3
+5448332308,node,Zuma Grill,,,restaurant,,,,,,,,9.0746973,7.4950061,False,restaurant,Classified,3,3
+5448332310,node,Fulani Bar & Grill,,,restaurant,,,,,,,,9.0738642,7.4944187,False,restaurant,Classified,3,3
+5448332311,node,Suya Grill,,,restaurant,,,,,,,,9.0744243,7.4943882,False,restaurant,Classified,3,3
+5485185983,node,Market Square,Shoprite,supermarket,,,,,,,,,8.9848745,7.4929275,True,supermarket,Classified,2,3
+5622679121,node,KFC,KFC,,fast_food,,,,,Aminu Kano Crescent,Abuja,,9.0733522,7.4712319,True,fast_food,Classified,3,3
+5624967923,node,Market Square,Shoprite,supermarket,,,,,PH,Umaru Musa Yar'Adua Expressway,,,8.9913364,7.3935682,True,supermarket,Classified,2,2
+5626112422,node,Miller Investment,,motorcycle,,,,,,,,,9.0300183,7.5899664,False,motorcycle,Classified,2,4
+5630743521,node,SFOUR HEALTH SERVICES LTD,,,pharmacy,,contact@Sfourng.com,http://www.sfourng.com,24/7,"PLOT 147, Zone A, Apo Resettlement",,,8.9901462,7.5038314,True,pharmacy,Classified,2,3
+5683475721,node,SFOUR HEALTH SERVICES LTD,,,pharmacy,,contact@sfourng.com,http://www.sfourng.com,24/7,"PLOT 147 , APO RESETTLEMENT ZONE A , APO",,,8.9901152,7.5038421,True,pharmacy,Classified,2,3
+5738249266,node,Skylark Pharmacy,,,pharmacy,,,,,,,,9.0440228,7.4636663,True,pharmacy,Classified,3,3
+5738793043,node,Plano Lounge,,,restaurant,,,,,,,,9.0745705,7.4953794,False,restaurant,Classified,3,3
+5739625739,node,MTN Mobile Money,,mobile_phone,,,,,,,,,9.074503,7.495476,False,mobile_phone,Classified,3,3
+6013989885,node,JD Park,,,restaurant,,,,,,,,9.084717,7.4772564,False,restaurant,Classified,3,3
+6050630687,node,electricity,,electronics,,,,,,,,,9.1433917,7.3727525,False,electronics,Classified,4,2
+6063143385,node,Metal Shop,,variety_store,,,,,,,,,9.143863,7.3703331,False,variety_store,Classified,4,2
+6063149187,node,Barrels,,variety_store,,,,,,,,,9.1436728,7.3697929,False,variety_store,Classified,4,2
+6068313290,node,Shoprite,Shoprite,supermarket,,,,https://www.shoprite.com.ng/,Mo-Su 09:00-21:00,Dalaba,Abuja,240102,9.0641235,7.4588344,True,supermarket,Classified,3,3
+6068313291,node,Wazobia Restaurant and Bar,,,restaurant,,,,,,,,9.0846933,7.4777618,False,restaurant,Classified,3,3
+6524137485,node,Cilantro,,,restaurant,,,,,,,,9.0988484,7.4901994,False,restaurant,Classified,3,3
+6589985501,node,NIBCARD Games Cafe,,,cafe,,,,,46 Crescent,Gwarinpa,,9.1181087,7.3949243,False,cafe,Classified,3,2
+6700203985,node,City Parc Bush Bar,,,restaurant,,,,,,,,9.0784748,7.4789499,False,restaurant,Classified,3,3
+6864045530,node,Indigo Restaurant and Lounge,,,restaurant,+234 805 7755 755,,https://instagram.com/indigorestaurantabuja,Mo-Su 10:00-02:00,Gana Street,Abuja,900271,9.0797218,7.5004808,False,restaurant,Classified,3,3
+6960416750,node,Tulip Hair Salon & Spa,,hairdresser,,,,,,,,,9.0816145,7.4775223,False,hairdresser,Classified,3,3
+8196228179,node,Bites & Grills,,,restaurant,+234 81 728 924 07,Bitesandgrills@gmail.com,,Mo-Su 09:00-21:00,"Grace Court Estate, IDU Impresit, Karmo",Abuja Nigeria,900102,9.0551174,7.38521,True,restaurant,Classified,3,2
+8196228180,node,Bites & Grils,,,restaurant,,,,,,,,9.0551401,7.3855293,False,restaurant,Classified,3,2
+8196228181,node,Bites & Grills,,,fast_food,+234 81 728 924 07,Bitesandgrills@gmail.com,,Mo-Su 09:00-21:00,"Grace Court Estate, IDU Impresit, Karmo",Abuja Nigeria,900102,9.0550856,7.3852325,True,fast_food,Classified,3,2
+8284170918,node,Spar,Spar,supermarket,,+234 7080653800,,https://sparnigeria.com/,,Aminu Kano Crescent,Abuja,,9.0837131,7.4682673,True,supermarket,Classified,3,3
+8323579141,node,Johnny Rockets,Johnny Rockets,,restaurant,+234 703 883 3881,,,,Adetokunbo Ademola Crescent,Abuja,,9.0746867,7.475575,False,restaurant,Classified,3,3
+8341496205,node,,,,cafe,,,,,,,,9.0675965,7.4858314,False,cafe,Classified,3,3
+8341496206,node,,,,cafe,,,,,,,,9.0672716,7.4856871,False,cafe,Classified,3,3
+8341496207,node,,,optician,,,,,,,,,9.0677402,7.4856157,False,optician,Classified,3,3
+8341496208,node,Bata,Bata,shoes,,,,,,,,,9.0674069,7.4856418,False,shoes,Classified,3,3
+8341496209,node,Miniso,Miniso,variety_store,,,,,,,,,9.0676512,7.4855278,True,variety_store,Classified,3,3
+8341496210,node,Shoprite,Shoprite,supermarket,,,,https://www.shoprite.com.ng/,Mo-Su 09:00-21:00,,,,9.0677552,7.4853226,True,supermarket,Classified,3,3
+8345910486,node,The Vue by Cilantro,,,restaurant,,,,,,,,9.0640349,7.4586552,False,restaurant,Classified,3,3
+8345910488,node,Essenza,,perfumery,,,,,,,,,9.0642046,7.4586087,False,perfumery,Classified,3,3
+8357551963,node,The Salad Guru,,,fast_food,,,,,,,,9.0841031,7.5007175,False,fast_food,Classified,3,3
+8367186718,node,Ennzo,,clothes,,,,,,,,,9.0551005,7.489988,False,clothes,Classified,3,3
+8367220017,node,Davision Opticals,,optician,,+23408035904101,,,Mo-Fr 08:30-18:00; Sa 10:00-17:00,,,,9.0836556,7.4688677,False,optician,Classified,3,3
+8367220517,node,Sholly Optical,,optician,,,,,,,,,9.0549573,7.4897736,False,optician,Classified,3,3
+8367237917,node,My Coffee,,,cafe,,,,,,,,9.0553547,7.4897983,False,cafe,Classified,3,3
+8367581318,node,Onno,,clothes,,,,,,,,,9.0548887,7.4898217,False,clothes,Classified,3,3
+8367581319,node,Audacious,,clothes,,,,,,,,,9.0548924,7.4897756,False,clothes,Classified,3,3
+8367587117,node,Nkoyo,,,restaurant,,,,,,,,9.0550803,7.489942,False,restaurant,Classified,3,3
+8367587217,node,Spar,Spar,supermarket,,,,,,,,,9.0552474,7.4898654,True,supermarket,Classified,3,3
+8367587317,node,Prized,,photo,,,,,,,,,9.0550438,7.4897286,False,photo,Classified,3,3
+8367587318,node,Nomis,,,restaurant,,,,,,,,9.0554094,7.4897123,False,restaurant,Classified,3,3
+8415816450,node,Tonia Pharmacy,,,pharmacy,,,,,,,,9.0764303,7.4624923,False,pharmacy,Classified,3,3
+8589415842,node,FARMERS MARKET,,supermarket,,,,,,Limpopo Street,,,9.086303,7.4943136,False,supermarket,Classified,3,3
+8629329017,node,Muzi Kitchen,,,restaurant,,,,,,,,9.0745393,7.4749805,False,restaurant,Classified,3,3
+8984285017,node,MUD ABIO,,trade,,+234 080 370 44910; +234 090 929 31998,,,,,,,9.026272,7.5529732,False,trade,Classified,2,4
+9229877615,node,Nip N Nosh,,,restaurant,,,,,,,,9.0669298,7.491225,False,restaurant,Classified,3,3
+9230172696,node,La Taverna,,,restaurant,,,,,,,,9.0663242,7.4941306,False,restaurant,Classified,3,3
+9279926739,node,God's Will Ogbonna Medical Complex,,,pharmacy,,,,07:00-22:00,,,,8.9921388,7.4266663,False,pharmacy,Classified,2,2
+9280131048,node,Medicine & Stores,,,pharmacy,,,,,,,,8.9914203,7.426118,False,pharmacy,Classified,2,2
+9310271563,node,Silk Road,,,restaurant,,,,,,,,9.0580816,7.4863947,False,restaurant,Classified,3,3
+9401736367,node,PROGNOSY PHARMACY AND SUPERMARKET,,supermarket,,,,,,,,,8.9547127,7.3645318,False,supermarket,Classified,1,2
+9401822342,node,Oliver Twist,,supermarket,,,,,,,,,8.9681812,7.3591618,False,supermarket,Classified,2,1
+9541785662,node,Vmart,,supermarket,,+2349088988547,,https://www.vmart.com.ng/,,Monrovia Street,,,9.0819572,7.4697225,False,supermarket,Classified,3,3
+9541785668,node,The Fish Shop,,seafood,,,,,,Monrovia Street,,,9.0825946,7.4695041,False,seafood,Classified,3,3
+9577867313,node,,,,restaurant,,,,,,,,9.0798647,7.4809927,False,restaurant,Classified,3,3
+9577867314,node,Grey Lounge,,,restaurant,,,,,,,,9.0797545,7.4807955,False,restaurant,Classified,3,3
+9577867315,node,Today's Bukka,,,restaurant,,,,,,,,9.0798428,7.4807481,False,restaurant,Classified,3,3
+9577867316,node,H-Medix,,supermarket,,+234 8064690993,,https://h-medix.com/,,Adetokunbo Ademola Crescent,Abuja,,9.0767303,7.4770943,True,supermarket,Classified,3,3
+9577919533,node,Beirut Lounge,,,restaurant,,,,,,,,9.0763655,7.4771756,False,restaurant,Classified,3,3
+9648481173,node,RENAO ABUJA,,,restaurant,+2349065995603,,https://renaoabuja.com,Mo-Su 11:00-23:00,Renao street,Abuja,,9.0377148,7.4804293,False,restaurant,Classified,2,3
+9866201633,node,Enord pharmacy,,,pharmacy,,,,,,,,8.8246443,7.5798691,False,pharmacy,Classified,0,4
+9945426291,node,,,tailor,,,,,,,,,8.862447,7.4238272,False,tailor,Classified,0,2
+9945426293,node,,,tailor,,,,,,,,,8.862585,7.4250339,False,tailor,Classified,0,2
+9945426295,node,,,tyres,,,,,,,,,8.8677575,7.4274713,False,tyres,Classified,0,2
+9945426299,node,,,tailor,,,,,,,,,8.8648083,7.4255636,False,tailor,Classified,0,2
+9945426302,node,,,,pharmacy,,,,,,,,8.8637898,7.425355,False,pharmacy,Classified,0,2
+9945426306,node,,,hairdresser,,,,,,,,,8.8662638,7.426284,False,hairdresser,Classified,0,2
+9945426307,node,,,tailor,,,,,,,,,8.8667103,7.4261559,False,tailor,Classified,0,2
+9945426311,node,,,tailor,,,,,,,,,8.8694408,7.4290528,False,tailor,Classified,0,2
+9945426313,node,,,kiosk,,,,,,,,,8.863777,7.4253028,False,kiosk,Classified,0,2
+9945426315,node,,,kiosk,,,,,,,,,8.8669007,7.4264543,False,kiosk,Classified,0,2
+9945457392,node,,,tailor,,,,,,,,,8.8349847,7.3948221,False,tailor,Classified,0,2
+9945457397,node,,,tailor,,,,,,,,,8.8338773,7.3947514,False,tailor,Classified,0,2
+9945457402,node,,,kiosk,,,,,,,,,8.8354618,7.3954051,False,kiosk,Classified,0,2
+9945457406,node,,,tailor,,,,,,,,,8.8355371,7.3951104,False,tailor,Classified,0,2
+9945457407,node,,,hairdresser,,,,,,,,,8.8355349,7.3961444,False,hairdresser,Classified,0,2
+9945457408,node,,,kiosk,,,,,,,,,8.8349169,7.3941676,False,kiosk,Classified,0,2
+9945457410,node,,,tailor,,,,,,,,,8.8349271,7.3942567,False,tailor,Classified,0,2
+9945474195,node,,,tailor,,,,,,,,,8.8154283,7.3950623,False,tailor,Classified,0,2
+9945474196,node,,,tailor,,,,,,,,,8.8158551,7.3936715,False,tailor,Classified,0,2
+9945474197,node,,,,restaurant,,,,,,,,8.8171281,7.3938995,False,restaurant,Classified,0,2
+9945474199,node,,,tyres,,,,,,,,,8.8160256,7.3936274,False,tyres,Classified,0,2
+9945474200,node,,,,pharmacy,,,,,,,,8.817217,7.3932308,False,pharmacy,Classified,0,2
+9945474201,node,,,tailor,,,,,,,,,8.8164286,7.3937014,False,tailor,Classified,0,2
+9945474204,node,,,kiosk,,,,,,,,,8.8168653,7.3948389,False,kiosk,Classified,0,2
+9945474205,node,,,kiosk,,,,,,,,,8.8173082,7.3929784,False,kiosk,Classified,0,2
+9945474206,node,,,,cafe,,,,,,,,8.8164625,7.3937823,False,cafe,Classified,0,2
+9945474207,node,,,tailor,,,,,,,,,8.8143781,7.3920386,False,tailor,Classified,0,2
+9945474210,node,,,hairdresser,,,,,,,,,8.8170046,7.3931122,False,hairdresser,Classified,0,2
+9945474211,node,,,kiosk,,,,,,,,,8.8164153,7.393785,False,kiosk,Classified,0,2
+9961441590,node,Khrome,,hairdresser,,,,,,,,,9.0783974,7.478971,False,hairdresser,Classified,3,3
+9961441591,node,Vintage Hubb,,mall,,,,,,,,,9.0784585,7.479024,False,mall,Classified,3,3
+9961460419,node,Vava,,furniture,,,,,,,,,9.0745989,7.4754657,False,furniture,Classified,3,3
+9961460420,node,Samsung,Samsung,electronics,,,,,,,,,9.0746589,7.4758271,True,electronics,Classified,3,3
+9968158689,node,The Cube Café,,,cafe,,,,,,,,9.0750583,7.464046,True,cafe,Classified,3,3
+9968183816,node,Leather World,,furniture,,,,,,,,,9.076581,7.462571,False,furniture,Classified,3,3
+9968183938,node,Galaxy Pizza,,,restaurant,+234 811 276 0422,,https://galaxypizza.com.ng/,,Atakpame Street,Abuja,,9.0697924,7.4786601,False,restaurant,Classified,3,3
+10042983717,node,,,copyshop,,,,,,,,,9.0633869,7.4231554,False,copyshop,Classified,3,2
+10097309846,node,Reference health,,,pharmacy,,,,,,,,8.828976,7.5728458,False,pharmacy,Classified,0,4
+10225180592,node,Taonet Pharmacy,,,pharmacy,,,,,,,,9.1417835,7.3722971,False,pharmacy,Classified,4,2
+10225283918,node,Tarei Pharmacy,,,pharmacy,,,,,,,,9.1395191,7.3693753,False,pharmacy,Classified,4,2
+10548919877,node,BIG LEAGUES,,hairdresser,,,,,,Adetokunbo Ademola Crescent,Abuja,904101,9.080564,7.4855774,False,hairdresser,Classified,3,3
+10550583552,node,Ezanol Pharmacy ltd,,,pharmacy,,,,,Scc Junction,,,8.8302583,7.5696951,False,pharmacy,Classified,0,4
+10739619216,node,RX pharmacy,,,pharmacy,,,,,Opposite AEDC office,,,9.0166476,7.4224001,False,pharmacy,Classified,2,2
+10739640846,node,,,,pharmacy,,,,,,,,9.0161569,7.4190297,False,pharmacy,Classified,2,2
+10739640847,node,Mane Sol Pharmacy,,,pharmacy,,,,,,,,9.0147856,7.4204888,False,pharmacy,Classified,2,2
+10750438183,node,Binta Beauty Ultimate Salon,,hairdresser,,,,,,,,,9.0191692,7.4221075,False,hairdresser,Classified,2,2
+10750472007,node,Ohbye Pharmacy Ltd.,,,pharmacy,,,,,"Opposite Galadimawa Market, Galadimawa",,,8.9925415,7.4266102,False,pharmacy,Classified,2,2
+10750539980,node,Prime Care Medicine Shop,,,pharmacy,,,,,,,,8.9956821,7.4237123,False,pharmacy,Classified,2,2
+10750539981,node,White heart Pharmaceutical and Supermarket,,convenience,pharmacy,,,,,,,,8.9958329,7.4239426,False,convenience,Classified,2,2
+10759282336,node,Keecee Pharmacy,,,pharmacy,,,,,,,,8.9448755,7.4435052,False,pharmacy,Classified,1,3
+10882003832,node,,,kiosk,,,,,,,,,8.9806665,7.35342,False,kiosk,Classified,2,1
+10978563472,node,,,,restaurant,,,,,,,,9.0685739,7.4717318,False,restaurant,Classified,3,3
+10978563473,node,,,,fuel,,,,,,,,9.0655796,7.4693439,False,fuel,Classified,3,3
+10992401494,node,TOPPFCT,,,restaurant,+2348071419423,,,24/7,Kumasi Crescent,abuja,900288,9.0793674,7.4768429,False,restaurant,Classified,3,3
+10993136659,node,Ace Wardobe,,clothes,,+2347039178489,,,24/7,Euphrates crescent,abuja,900271,9.0910042,7.4777792,False,clothes,Classified,3,3
+10993160247,node,plumeria fragrance,,perfumery,,+2349057348560,,,Mo-Su 09:00-21:00,Adetokunbo Ademola Crescent,abuja,900288,9.0793153,7.4797439,False,perfumery,Classified,3,3
+11017002169,node,VOG WOMAN,,beauty,,+2349065904082,,,Mo-Su 08:00-21:00,kampala street wuse 2,abuja,900288,9.0779335,7.480851,False,beauty,Classified,3,3
+11049395905,node,Spice Platter,,,restaurant,,,,,,,,9.0762928,7.4605633,False,restaurant,Classified,3,3
+11198574542,node,Six_25butik & beautybar,,clothes,,+2348122590923,,,Mo-Su 08:30-20:30,Adetokunbo Ademola Crescent,abuja,900288,9.0794663,7.4797637,False,clothes,Classified,3,3
+11478728069,node,Skylark Pharmacy,,,pharmacy,,,,Mo-Sa 08:00-21:00,Lingu Crescent,,,9.0712946,7.4689118,True,pharmacy,Classified,3,3
+11478728169,node,The Charcoal Grill,,,restaurant,+234 811 131 1177;+234 818 111 6161,thecharcoalgrill@hotmail.co.uk,https://www.charcoalgrillabuja.com/,Mo-Sa 08:00-23:00; Su 10:00-23:00,Lingu Crescent,,,9.0722345,7.4667902,False,restaurant,Classified,3,3
+11494714869,node,KFC,KFC,,fast_food,,,,,Olusegun Obasajo Way,,,9.0522785,7.4758278,True,fast_food,Classified,3,3
+11505505541,node,Express Unisex Salon,,beauty,,+234 813 235 5715,,,,,Abuja,,8.9701566,7.4373585,False,beauty,Classified,2,3
+11505512910,node,Food Alacarte,,supermarket,,+234 802 449 7833,,,Mo-Su 07:00-21:00,,Abuja,,8.9700775,7.4374199,False,supermarket,Classified,2,3
+11505516690,node,Cornemed Pharmacy and Stores,,,pharmacy,,,,,,Abuja,,8.9702175,7.4373732,False,pharmacy,Classified,2,3
+11505525251,node,Gracemade supermarket,,supermarket,,,,,"Mo-Su 09:00-19:15, 08:00-20:00",,Abuja,,8.9701042,7.4373367,False,supermarket,Classified,2,3
+11519115769,node,Morr Food,,,restaurant,07043800000,,,24/7,Adetokunbo Ademola Crescent,,,9.0763109,7.4870931,False,restaurant,Classified,3,3
+11519118094,node,Sunny Hill Computer Training,,computer,training,+234 708 982 8255;+234 705 820 2373,,,,,,,8.9701146,7.4373319,False,computer,Classified,2,3
+11524798996,node,A.O Laundry Services & Business Centre,,laundry,internet_cafe,+234 818 536 0681,,,,,,,8.9700771,7.4373223,False,laundry,Classified,2,3
+11524798997,node,Health & Wellness Mart,,cosmetics,,+234 813 329 9220,,,,,Abuja,,8.9700805,7.4373168,False,cosmetics,Classified,2,3
+11533207380,node,BULL AND GATE,,,restaurant,+2348063394414,bandgbygq@gmail.com,https://linktr.ee/bullandgate,Mo-Su 09:00-03:00,Gana Street,Abuja,900271,9.0782726,7.5005914,False,restaurant,Classified,3,3
+11576552394,node,H-Medix pharmacy,,,pharmacy,,,,Mo-Sa 08:00-20:00; Su 15:00-19:00,Ibrahim Babangida Boulevard,,,9.1057007,7.4856653,False,pharmacy,Classified,3,3
+11578644316,node,Ayuba Store,,electronics,,09129255213,,,,,,,8.9764862,7.4866194,False,electronics,Classified,2,3
+11578653845,node,,,convenience,,,,,,,,,8.9765508,7.4869558,False,convenience,Classified,2,3
+11579290288,node,Sunnyvale Mall,,mall,,,,,,,,,8.9857173,7.4464856,False,mall,Classified,2,3
+11581828753,node,Le Petit Square,,,restaurant,,,,Mo-Sa 08:30-20:30,Mohammadu Buhari Way,Abuja,,9.0530584,7.4793539,False,restaurant,Classified,3,3
+11582403451,node,Sky Vision Eye Clinic,,optician,,+2349035164749;+2348035906645,,,,Mohammadu Buhari Way,Abuja,,9.0527572,7.4793188,False,optician,Classified,3,3
+11595185138,node,Zuanns Corporate Investments Ltd.,,,,+2348037544877;+2348120821210,,,,,Abuja,,9.0619901,7.4705458,False,,Unclassified,3,3
+11595519293,node,Tonia Pharmacy Ltd.,,,pharmacy,,,,,Mohammadu Buhari Way,Abuja,,9.0530742,7.4792411,False,pharmacy,Classified,3,3
+11641623741,node,Selgic Solar & Inverter,,electrical,,"+2348034755561, +2348034514155",,,,Herbert Macaulay Way,,,9.0667223,7.4570358,False,electrical,Classified,3,3
+11641634188,node,Bethel City Shop & Dine Ltd,,convenience,,"+2349123558321, +2348100910773",bethelshopanddine@gmail.com,,Mo-Su 10:00-20:00,Herbert Macaulay Way,,,9.0667073,7.4571025,False,convenience,Classified,3,3
+11648773467,node,El-One Auto Service Centre,,car_repair,,,,,,,,,8.9939361,7.4680813,False,car_repair,Classified,2,3
+11659536339,node,Active Leisure,,clothes,,,,,,,,,8.9909443,7.3932233,False,clothes,Classified,2,2
+11659559413,node,Domino's,Domino's,,fast_food,,,,,,,,8.9910211,7.3938771,True,fast_food,Classified,2,2
+11746111947,node,Graceland Supermarket & Gift Shop,,supermarket,,+2348065841351,,,,,,,9.0040255,7.4647109,False,supermarket,Classified,2,3
+11746384743,node,Flourish Superstores,,supermarket,,"+2348081191759, +2349038005328",vincetobe123@gmail.com,,,,,,8.9852348,7.4472906,False,supermarket,Classified,2,3
+11795312540,node,Ben Cee Divine Medical,,,pharmacy,"+2348064362953, +2348086451956, +2349021015264",,,Mo-Sa 07:00-23:00; Su 10:00-23:00,,,,8.9619997,7.4833662,False,pharmacy,Classified,1,3
+11809691549,node,Fatiza Supermarket,,convenience,,,,,Mo-Su 07:00-21:00,,,,9.0004173,7.4727551,False,convenience,Classified,2,3
+11809703185,node,Kings Delicacy Restaurant,,,restaurant,,,,,,,,9.0004052,7.4727889,False,restaurant,Classified,2,3
+11813530403,node,ACE Health & Medical Stores,,,pharmacy,+234 907 561 3478,,,,,,,8.9692656,7.2566194,False,pharmacy,Classified,2,0
+11845377300,node,H-Medix Pharmacy & Supermarket,,,pharmacy,,,,,,,,9.0233563,7.4850454,False,pharmacy,Classified,2,3
+11886464204,node,Booze by 1703,Booze by 1703,alcohol,,+2347034720590,,,24/7,Adetokunbo Ademola Crescent,Abuja,900288,9.0708589,7.4834478,False,alcohol,Classified,3,3
+11910271016,node,,,hairdresser,,,,,,,,,8.9690573,7.2566399,False,hairdresser,Classified,2,0
+11916551046,node,Classy Cindy Ventures,,clothes,,+234 706 661 6758;+234 708 611 0947,cynthia.mbonu@yahoo.com,,,Enugu Street,,,9.0236009,7.4875375,False,clothes,Classified,2,3
+11916551047,node,Don-Spark Electricals,,lighting,,+234 809 131 1851;+234 806 537 6336,,,,,,,9.02357,7.4875637,False,lighting,Classified,2,3
+11916551048,node,Abuja Sure Plug,,electronics,,+234 907 799 7628,,,,Enugu Street,,,9.023571,7.4875655,False,electronics,Classified,2,3
+11916551051,node,Prince & Lily Wine Store,,wine,,,,,"Mo-Sa 11:00-24:00 open ""may be opened past midnight to 3am""; Su 16:00-dawn",,,,9.023632,7.4875118,False,wine,Classified,2,3
+11916576220,node,Abuja Mobile Market,,supermarket,,+234 818 777 7725;+234 704 666 0888;+234 803 307 6844,info@abujamobilemarket.com,https://www.abujamobilemarket.com/,,Lagos Street,,,9.0242602,7.4875599,False,supermarket,Classified,2,3
+11922113357,node,Oliver Twist Supermarket,,supermarket,,+2349131242462,,https://www.olivertwiststore.com/,,,,,9.016579,7.4105306,True,supermarket,Classified,2,2
+11922113361,node,Salama Auto Care Ltd,Honda;Hyundai;Kia;Mercedes-Benz;Toyota,car_repair,,,,,,,,,9.016347,7.4106555,False,car_repair,Classified,2,2
+11922113362,node,Chicken Republic,Chicken Republic,,fast_food,,,,,,,,9.0165838,7.4105419,True,fast_food,Classified,2,2
+11922113363,node,Pizza Hut,Pizza Hut,,restaurant,,,,Mo-Th 10:00-22:00; Fr-Su 10:00-23:00; PH 09:30-12:00 open,,,,9.0164081,7.4106259,False,restaurant,Classified,2,2
+11950713430,node,Bara’s Beauty and Aesthetics,,beauty,,+2348102916716,barabeautyaesthetique@gmail.com,https://www.barabeautyaesthetique.com/,Mo-Su 09:00-22:00,Adetokunbo Ademola Crescent,Abuja,900288,9.0779149,7.4784224,False,beauty,Classified,3,3
+11964828739,node,Hugo Boss,Hugo Boss,clothes,,+234 813 778 0820,,,,,,,9.023271,7.4864689,False,clothes,Classified,2,3
+11964828740,node,Ultra Hair and Nail Care,,beauty,,,,,,,,,9.0232429,7.4864268,False,beauty,Classified,2,3
+12009341865,node,Glo World,,telecommunication,,,,,,,,,9.0744101,7.4708253,False,telecommunication,Classified,3,3
+12012934660,node,Adeiza Tatpie,,tattoo,,+2347030370077,Fynato5@gmail.com,,Mo-Sa 10:00-18:00,Ahmed Gambo Saleh crescent,Abuja,900108,9.0980794,7.4242628,False,tattoo,Classified,3,2
+12021239993,node,SMG GADGETS,SMG GADGETS,mobile_phone,,+2348038912389,info@smggadgets.com,https://smggadgets.com/,Mo-Sa 09:00-18:00,AMINU KANO CRES. Wuse 2,ABUJA,904101,9.084113,7.4712112,False,mobile_phone,Classified,3,3
+12029675621,node,Emir Visuals,,photo,,+2348187991048,emirvisualsng@gmail.com,,Mo-Sa 09:00-20:00,"Bumsa Plaza, Plot 510 Arab Road Kubwa",Kubwa,901101,9.1426083,7.3051173,False,photo,Classified,4,1
+12038137697,node,Stallion Mart - MRS,,convenience,,,,,,,,,9.0511864,7.5275423,False,convenience,Classified,3,4
+12046272350,node,The Scent Clinic Nigeria,,perfumery,,+2349070000142,helloscentclinicnigeria@gmail.com,,Mo-Su 10:00-22:00,Adetokunbo Ademola Crescent,Abuja,900288,9.0708265,7.4833732,False,perfumery,Classified,3,3
+12046283868,node,Madamlueur Nigeria,,clothes,,+2349136000419,lueuraestheticsnigeria@yahoo.com,https://shoplueuraestheticsnigeria.com/,Mo-Sa 10:00-21:00,Adetokunbo Ademola Crescent,Abuja,900288,9.0708745,7.483396,False,clothes,Classified,3,3
+12060847458,node,Danjay Auto,,car_repair,,+234 803 388 4848;+234 818 180 8886;+234 706 948 7543,,,,,,,8.9952072,7.4369987,False,car_repair,Classified,2,3
+12066359338,node,Bigtimers Barbershop,,hairdresser,,+2348065694857,bigtimersadvantage@gmail.com,,"Mo-Sa 08:00-21:00 open ""Might extend opening to 22:00 during high traffic""; Su 12:30-21:00 open ""Might extend opening to 22:00 during high traffic""",Road 1,,,8.9680615,7.4395832,False,hairdresser,Classified,2,3
+12066359339,node,Dis And More Supermarket,,supermarket,,,,,Mo-Sa 08:00-22:30; Su 12:30-22:30,Road 1,,,8.9680162,7.4395378,False,supermarket,Classified,2,3
+12073716124,node,Tripple J Supermarket,,supermarket,,+2347034471010,,,,,,,8.9692794,7.2567505,False,supermarket,Classified,2,0
+12112701829,node,Oliver Twist Supermarket,,convenience,,,,,,,,,8.9875054,7.4551953,True,convenience,Classified,2,3
+12128497098,node,Kammies Kitchen,,,fast_food,,,,Mo-Su 11:00-22:00,,,,8.9679514,7.4394939,False,fast_food,Classified,2,3
+12177387877,node,Bills Restaurant and Rooftop Lounge,,,restaurant,+2349038377630,eneyesuccess@gmail.com,https://billsrestaurant.africa.restaurant/,24/7,Adetokunbo Ademola Crescent,Abuja,900288,9.0708336,7.4834267,False,restaurant,Classified,3,3
+12178748895,node,Zagbavi Pharmacy,,,pharmacy,,,,,,,,9.0612803,7.4685387,False,pharmacy,Classified,3,3
+12178777204,node,Skylark Pharmacy,,,pharmacy,,,,,Conakry Street,,,9.0596188,7.4667062,True,pharmacy,Classified,3,3
+12178777205,node,Chisaac Royal Interiors,,furniture,,+2347039612316,,,,Conakry Street,,,9.0597822,7.4668078,False,furniture,Classified,3,3
+12208663177,node,Miniso,Miniso,variety_store,,,,,,,,,8.9910494,7.3933268,True,variety_store,Classified,2,2
+12208663178,node,Royalline Phones & Accessories,,mobile_phone,,,,,,,,,8.990517,7.3936316,False,mobile_phone,Classified,2,2
+12208663179,node,Jed Lifestyle,,boutique,,,,,,,,,8.9909361,7.3935396,False,boutique,Classified,2,2
+12208663180,node,Dodo Pizza,,,fast_food,,,,,,,,8.9906059,7.3937966,False,fast_food,Classified,2,2
+12208663181,node,Krispy Kreme,Krispy Kreme,,fast_food,,,,,,,,8.9906433,7.3936409,False,fast_food,Classified,2,2
+12208663182,node,Achisco Arcade,,electronics,,,,,,,,,8.9911003,7.3934435,False,electronics,Classified,2,2
+12269782290,node,ONE MORE GADGET,,mobile_phone,,+2347068025860,onemoregadgets@gmail.com,,Mo-Sa 07:00-19:00,Alexandria Crescent,Abuja,904101,9.0840156,7.4689085,False,mobile_phone,Classified,3,3
+12311885193,node,GX Kicks,,shoes,,+234 903 380 8949,,,24/7,Aminu Kano Crescent,Abuja,900288,9.0803183,7.4775158,False,shoes,Classified,3,3
+12330471934,node,iPLUG ESSENTIALS STORE,,mobile_phone,,+2347087961779,Iplugessentialsstore@gmail.com,,Mo-Sa 09:00-19:00,NEW BANEX PLAZA WUSE 2 ABUJA,Abuja,900288,9.0840177,7.468908,False,mobile_phone,Classified,3,3
+12354272458,node,Mr Think Sneakers,,shoes,,+2348167239928,mrthinksneakees@gmail.com,,Mo-Su 09:00-20:00,Cappador mall,abuja,900271,9.0902118,7.4761384,False,shoes,Classified,3,3
+12391461556,node,Checkpoint Restaurant and Lounge,,,restaurant,+2349165555055,Checkpointabuja@gmail.com,,Mo-Su 12:00-02:00,sakono street,Abuja,900288,9.0724391,7.4756151,False,restaurant,Classified,3,3
+12423310654,node,The Nail Lab,,beauty,,+2347069090130,thenaillabng@gmail.com,,24/7,Sakono Street,Abuja,900288,9.0724365,7.4755737,False,beauty,Classified,3,3
+12467012300,node,Breeze,,,restaurant,07047044915,,https://www.instagram.com/breeze.abuja/,"Mo-Fr 12:00-24:00; Sa,Su 12:00-01:00",Eldoret Close,Abuja,,9.0806004,7.4762028,False,restaurant,Classified,3,3
+12473917821,node,ANGEL'S HOME,,,restaurant,,,,,,,,8.9923466,7.4266223,False,restaurant,Classified,2,2
+12486851968,node,Coscharis Motors,,car_repair,,,,,,,,,9.051148,7.4794793,False,car_repair,Classified,3,3
+12569298642,node,Church,,religion,,,,,,,,,8.9728983,7.3610918,False,religion,Classified,2,2
+12569304714,node,The Glory Dome,,religion,,,,,,,,,8.9656099,7.3433609,False,religion,Classified,1,1
+12569304845,node,Olive plaza,,mall,,,,,,,,,9.0824504,7.4652096,False,mall,Classified,3,3
+12569308810,node,Sims digital Center,,mall,,,,,,,,,9.0826277,7.4769937,False,mall,Classified,3,3
+12588281873,node,Chopsticks,,,restaurant,,,,,,,,9.0908963,7.488831,False,restaurant,Classified,3,3
+12755619201,node,IYABS PLACE,,,restaurant,,,,Mo-Sa 08:00-20:00,,,,9.1454395,7.3441939,True,restaurant,Classified,4,1
+12755620801,node,IYABS PLACE,,,restaurant,,,,Mo-Sa 09:00-21:00,,,,9.1454492,7.3441895,True,restaurant,Classified,4,1
+12774568269,node,Bakan Gizo Pharmacy And Stores,,supermarket,,+234 815 090 3409;+234 905 369 9101,,https://bakangizo.com.ng/,,,,,8.9789647,7.4688141,False,supermarket,Classified,2,3
+12837053737,node,Keeksglam beauty,,beauty,,+2347032262200,Keeksglam25@gmail.com,https://keeksglambeauty.com/,Mo-Su 09:00-18:00,P.O.W MAFEMI CRESCENT,ABUJA,23409,9.0707456,7.4351653,False,beauty,Classified,3,2
+12843096910,node,Wear It All luxury,,clothes,,,wearitallluxury@gmail.com,,Mo-Su 10:00-20:00,Libreville Crescent,Abuja,900288,9.074021,7.4631227,False,clothes,Classified,3,3
+12911294443,node,Miniso,Miniso,variety_store,,,,,,,,,8.9907391,7.3934391,True,variety_store,Classified,2,2
+12911294445,node,Skechers,Skechers,shoes,,,,,,,,,8.9911684,7.3937694,True,shoes,Classified,2,2
+12967017411,node,Strands Salon,,beauty,,+2347072485859,Strandsorganics@gmail.com,,Tu-Sa 9:00-19:00,Indus Close,abuja,900271,9.0878947,7.4737009,False,beauty,Classified,3,3
+12984921096,node,Domino's,Domino's,,fast_food,,,,,,,,9.0770032,7.4257395,True,fast_food,Classified,3,2
+12984921098,node,KFC,KFC,,fast_food,,,,,,,,9.0765654,7.42527,True,fast_food,Classified,3,2
+12984921099,node,Miniso,Miniso,variety_store,,,,,,,,,9.0760409,7.4251224,True,variety_store,Classified,3,2
+12984921100,node,Nike,Nike,clothes,,,,,,,,,9.0769667,7.4255183,False,clothes,Classified,3,2
+12984960769,node,Pandora,Pandora,jewelry,,,,,,,,,9.0677865,7.4855389,False,jewelry,Classified,3,3
+12984960770,node,Skechers,Skechers,shoes,,,,,,,,,9.0676536,7.4853834,True,shoes,Classified,3,3
+12984986401,node,MAC Cosmetics,MAC Cosmetics,cosmetics,,,,,,,,,9.0769229,7.4256614,False,cosmetics,Classified,3,2
+12984986402,node,TAG Heuer,TAG Heuer,watches,,,,,,,,,9.0768848,7.4254745,False,watches,Classified,3,2
+12984986403,node,Tommy Hilfiger,Tommy Hilfiger,clothes,,,,,,,,,9.0766822,7.42534,False,clothes,Classified,3,2
+12984986404,node,Burger King,Burger King,,fast_food,,,,,,,,9.0765919,7.4254334,False,fast_food,Classified,3,2
+12984986405,node,Skechers,Skechers,shoes,,,,,,,,,9.0768267,7.4253367,True,shoes,Classified,3,2
+12984986406,node,Swatch,Swatch,watches,,,,,,,,,9.0764925,7.4253556,False,watches,Classified,3,2
+13031332520,node,M633 supermarket,,supermarket,,+2348065329033,daveonelove12@gmail.com,,24/7,GA247 PLAZA,ABUJA,,9.0863811,7.4591628,False,supermarket,Classified,3,3
+13069611008,node,IKEA,,furniture,,,,,,,,,9.1175107,7.4200964,False,furniture,Classified,3,2
+13105894647,node,Emadeb Gas,,gas,,,,,,,,,8.98001,7.4635777,False,gas,Classified,2,3
+13110884318,node,Raino First Fashion Store,Raino First,clothes,,+2348161330269,admin@rainofirst.com,https://www.rainofirst.com,Mo-Su 08:00-21:00,"Plot 786, zone C02 off obafemi awolowo expressway, cadastral,m",Gwarinpa,900108,9.0669073,7.405295,False,clothes,Classified,3,2
+13228902902,node,Sixchys Pharmacy,,,pharmacy,,,,,,,,9.1016168,7.4728139,False,pharmacy,Classified,3,3
+13228902904,node,Katampe Mechanic,,car_repair,,,,,,,,,9.0997069,7.4738273,False,car_repair,Classified,3,3
+13254385856,node,Calabar Pot,,,restaurant,,,,,,,,8.9970546,7.4693116,False,restaurant,Classified,2,3
+13738730255,node,Kubba lavers,,laundry,,+234 708 008 7599,,,Mo-Sa 08:00-19:00,Cyprian Ukpabia Sreet,Kubwa,901101,9.1413182,7.3066196,False,laundry,Classified,4,1
+13742979210,node,Balara Atelier,,tailor,,0704 106 3575,,,Mo-Fr 10:00-17:00,,Abuja,,8.8760705,7.2710971,False,tailor,Classified,0,0
+13972229746,node,Coco Phone Accessories,,electronics,,+234 0808 594 4448,,,Mo-Fr 09:00-18:00,"Bakori Road, Kubwa",Bwari,901101,9.1450677,7.3379366,False,electronics,Classified,4,1
+13978285031,node,Mom's Kitchen,,,restaurant,,,,,,,,9.0443546,7.5885242,False,restaurant,Classified,3,4
+14019797901,node,MaiShayi Coffee Roasters,,,cafe,,,,Mo-Su 09:00-23:00,Margaret Thatcher Close,,,9.0522544,7.5120175,False,cafe,Classified,3,3
+14020304102,node,Havana Restaurant,,,restaurant,,havanaabuja@gmail.com,https://www.havanaabuja.com,Su-Th 12:00-23:00; Fr-Sa 12:00-01:00,Adetokunbo Ademola Crescent,,,9.0815972,7.483604,False,restaurant,Classified,3,3
+14067773589,node,TK Mart,,convenience,,,,,,,,,9.025895,7.4633748,False,convenience,Classified,2,3
+14129261865,node,Urban Village,,,restaurant,,,,,,,,9.0968424,7.4804647,False,restaurant,Classified,3,3
+14137013201,node,Kojo Motors,,car,,,,,Mo-Sa 09:00-18:00,Shehu Yar'Adua Way,,900108,9.0780053,7.4448171,False,car,Classified,3,3
+14137016101,node,Bills And Mills,,car,,,,,Mo-Sa 09:00-18:00,Shehu Yar'Adua Way,,900108,9.0776548,7.4443528,False,car,Classified,3,3
+14137706901,node,Kaduna Cars,,car,,,,,,Shehu Shagari Way,,,9.0461305,7.5102237,False,car,Classified,3,3
+14138067101,node,Zac Motors Limited,,car,,,,,,Constitution Avenue,,,9.0507487,7.4786917,False,car,Classified,3,3
+14138168101,node,,,,fast_food,,,,,,,,9.0904924,7.3897588,False,fast_food,Classified,3,2
+14170802197,node,Ebuka & Sons,,chemist,,,,,,minfa estate,,,8.9676168,7.4636777,False,chemist,Classified,2,3
+14230327913,node,IT Gadgets Warehouse,,electronics,,+234 703 959 7249;+234 704 449 1030,,www.itgdgetswarehouse.com,,Aminu Kano Crescent,,,9.0838614,7.4702967,False,electronics,Classified,3,3
+14291788546,node,Kilo’s Kubicle,,,cafe,,,,,Adetokunbo Ademola Crescent,Abuja,904101,9.071436,7.4780848,False,cafe,Classified,3,3
+176843653,way,Wakkis,,,restaurant,,,,,,,,9.0814803,7.4767345,False,restaurant,Classified,3,3
+176918852,way,MKK Plaza,,mall,,,,,,,Abuja,,9.000913,7.4721859,False,mall,Classified,2,3
+176919888,way,Tantilizers,,,fast_food,,,https://tantalizersnig.com/,,Aminu Kano Crescent,,900288,9.0825547,7.4671686,False,fast_food,Classified,3,3
+181653525,way,Abuja Shopping Complex,,mall,,,,,,,,,9.0316143,7.4835719,False,mall,Classified,2,3
+181653526,way,Jevinik,,,restaurant,+2347015863699,,https://www.jevinik.com/,,Bangui Street,,,9.0687152,7.4815434,False,restaurant,Classified,3,3
+182162677,way,Legends Supermarket,,supermarket,,,,,,,,,9.0385339,7.5025336,False,supermarket,Classified,2,3
+183435074,way,Landmark Plaza,,mall,,,,,,,,,9.0922955,7.499408,True,mall,Classified,3,3
+183435075,way,Landmark Plaza,,mall,,,,,,,,,9.0926726,7.4998347,True,mall,Classified,3,3
+211556830,way,Wuse Shopping Plaza,,mall,,,,,,,,,9.0667948,7.46301,True,mall,Classified,3,3
+211556832,way,Wuse Shopping Plaza,,mall,,,,,,,,,9.0669911,7.4629505,True,mall,Classified,3,3
+211556845,way,Wuse Shopping Plaza,,mall,,,,,,,,,9.0671915,7.463038,True,mall,Classified,3,3
+211633853,way,,Total,convenience,fuel,,,,,,,,9.0647765,7.4689042,False,convenience,Classified,3,3
+212189426,way,Silverbird Cinemas & Shopping Centre,,mall,,,,,,,,,9.0676135,7.4854453,False,mall,Classified,3,3
+218599847,way,Park 'N' Shop,,mall,,,,,,Aminu Kano Crescent,,900288,9.0836547,7.4681067,False,mall,Classified,3,3
+218601805,way,Samsung,Samsung,electronics,,,,https://www.samsung.com/africa_en/brand/find_a_store_near_you_20.html,,Aminu Kano Crescent,,,9.0822539,7.4662312,True,electronics,Classified,3,3
+219651175,way,City View Restaurant and Grill,,,restaurant,,,http://cityviewrestaurantandgrill.com/,,Kampala Close,Abuja,,9.0654842,7.4733322,False,restaurant,Classified,3,3
+220545582,way,Southern Fried Chicken,,,fast_food,,,,,,,,9.0800824,7.5000066,True,fast_food,Classified,3,3
+299203358,way,The Pasha,,,restaurant,,,,,,,,9.0755313,7.4987076,False,restaurant,Classified,3,3
+299451021,way,French Bakery,,,cafe,,,,,,,,9.1025969,7.4791924,False,cafe,Classified,3,3
+300348530,way,Salamander,,,cafe,,,,,Bujumbura Street,Abuja,,9.0768883,7.4614082,False,cafe,Classified,3,3
+302294835,way,Ceddi Plaza,,mall,,,,,,Phase,Abuja,,9.0551949,7.4897822,False,mall,Classified,3,3
+302296256,way,Sahad Stores,,department_store,,+234 700 007 2423;+234 815 089 4676,info@sahadstores.com,https://sahadstores.com/,Mo-Su 09:00-21:00,Tafawa Balewa Way,Abuja,,9.0523254,7.4913357,False,department_store,Classified,3,3
+424362497,way,Jabi Lake Mall,,mall,,,,,,,,,9.0764304,7.4255712,False,mall,Classified,3,2
+424704775,way,BluCabana,,,restaurant,,,,,,,,9.0811112,7.4366791,False,restaurant,Classified,3,3
+472376358,way,,,,restaurant,,,,,,,,9.0712699,7.4132098,False,restaurant,Classified,3,2
+712903753,way,Exclusive stores,,department_store;supermarket,,,,,,Adetokunbo Ademola Crescent,,,9.0774181,7.4879449,False,department_store;supermarket,Classified,3,3
+743690568,way,L and N Kitchen,,,restaurant,+234 704 485 4619,,https://www.landnkitchen.com/,,Kumasi Crescent,Abuja,,9.0792487,7.477487,False,restaurant,Classified,3,3
+749479629,way,,,houseware,,,,,,,,,9.0928611,7.427352,False,houseware,Classified,3,2
+750779799,way,opposer trendy wears,,clothes,,+234 913 995 3253,,,24/7,6th Avenue,abuja,900108,9.117375,7.4040217,False,clothes,Classified,3,2
+776646793,way,Mandi,,,restaurant,+234 905 555 1383,,,,Adetokunbo Ademola Crescent,Abuja,,9.07379,7.4755074,False,restaurant,Classified,3,3
+776646819,way,Chicken Republic,Chicken Republic,,fast_food,,,,,,,,9.0714475,7.4778947,True,fast_food,Classified,3,3
+777033935,way,Chocolate Mall,,mall,,,,,,Atakpame Street,Abuja,904101,9.069912,7.4785198,False,mall,Classified,3,3
+778635334,way,Secret Garden,,,restaurant,,,,,,,,9.0666436,7.490219,False,restaurant,Classified,3,3
+779453564,way,Grand Square,,mall,,+2348155207051;+2348155207052,abuja@grandproductscompany.com,grandproductscompany.com,,Mohammadu Buhari Way,Abuja,,9.0529833,7.4791605,False,mall,Classified,3,3
+780386311,way,,,,restaurant,,,,,,,,9.068276,7.4905195,False,restaurant,Classified,3,3
+780720767,way,H-Medix,,supermarket,,+234 8064690993,,https://h-medix.com/,24/7,Adetokunbo Ademola Crescent,Abuja,,9.0717573,7.4856372,True,supermarket,Classified,3,3
+780720790,way,4U Supermarket,,supermarket,,+2348026359797,,,Mo-Sa 09:00-22:00; Su 11:00-20:00,Adetokunbo Ademola Crescent,,,9.0718903,7.4839849,False,supermarket,Classified,3,3
+831553975,way,,,,restaurant,,,,,,,,9.1909948,7.2062841,False,restaurant,Classified,4,0
+881248855,way,Bites & Grills,,,restaurant,+234 81 728 924 07,Bitesandgrills@gmail.com,,Mo-Su 09:00-21:00,"Grace Court Estate IDU Impresit, Karmo",Abuja Nigeria,900102,9.0551768,7.3853675,True,restaurant,Classified,3,2
+885971779,way,Prince Ebeano Supermarket,,supermarket,,,,,Mo-Sa 08:00-21:00; Su 11:00-21:00; PH 08:00-21:00 open,,,,8.9805692,7.4625389,True,supermarket,Classified,2,3
+887859766,way,,,,restaurant,,,,,,,,9.0151293,7.3965501,False,restaurant,Classified,2,2
+887859767,way,,,,restaurant,,,,,,,,9.0153289,7.3965161,False,restaurant,Classified,2,2
+887859768,way,,,,restaurant,,,,,,,,9.0153577,7.3966108,False,restaurant,Classified,2,2
+887859769,way,,,,restaurant,,,,,,,,9.0153774,7.396729,False,restaurant,Classified,2,2
+887859771,way,,,,restaurant,,,,,,,,9.0153187,7.3968568,False,restaurant,Classified,2,2
+887859772,way,,,,restaurant,,,,,,,,9.0150814,7.3970518,False,restaurant,Classified,2,2
+891293840,way,Drumstix,,,fast_food,,,http://www.drumstixnigeria.com,,Aminu Kano Crescent,,900288,9.0823283,7.4664772,False,fast_food,Classified,3,3
+893909959,way,The Pavilion,,,restaurant,,,,,,,,9.0542329,7.5268879,False,restaurant,Classified,3,4
+894564085,way,Serendib,,,restaurant,,,,,,,,9.069527,7.4246702,False,restaurant,Classified,3,2
+898047978,way,Novare Central Mall,,mall,,+234 818 807 0066,,https://novare-central.com/,Mo-Sa 09:00-21:00; Su 10:00-21:00,Dalaba Street,Abuja,900285,9.0643606,7.4585838,False,mall,Classified,3,3
+898047980,way,Novare Apo,,mall,,,,,Mo-Su 09:00-21:00,Murtala Mohammed Express Way,Abuja,,8.9847138,7.493035,False,mall,Classified,2,3
+898047983,way,Novare Gateway,,mall,,,,,,Umaru Musa Yar'Adua Expressway,,,8.9910482,7.3937994,False,mall,Classified,2,2
+898053992,way,Zuma,,mall,,,,,,,,,9.0601214,7.454607,False,mall,Classified,3,3
+898053993,way,Febson Mall,,mall,,,,,,,,,9.0660629,7.4689975,False,mall,Classified,3,3
+899488907,way,The Cube Café,,,cafe,,,https://www.facebook.com/thecubeartcafe/,,,,,9.0844715,7.5006976,True,cafe,Classified,3,3
+899488908,way,Asah Bara,,pottery,,,,https://www.instagram.com/asah_bara/,,,,,9.0846031,7.5005712,False,pottery,Classified,3,3
+979766555,way,,,,,,,,,,,,9.0303281,7.4705566,False,,Unclassified,2,3
+999889096,way,The Junkyard Grill,,,restaurant,,,,,,,,9.0657203,7.4896383,False,restaurant,Classified,3,3
+999889097,way,,,,restaurant,,,,,,,,9.065589,7.489563,False,restaurant,Classified,3,3
+999889100,way,Grills 101,,,restaurant,,,,,,,,9.0622573,7.4903697,False,restaurant,Classified,3,3
+999889102,way,Keje Grill,,,restaurant,,,,,,,,9.0783427,7.477692,False,restaurant,Classified,3,3
+999921007,way,Siam City Garden,,,restaurant,,,,,,,,9.0845761,7.4825522,False,restaurant,Classified,3,3
+1036277540,way,Electronics Warehouse,,electronics,,,,https://www.electronicstore.ng/,,,,,9.0647109,7.4720165,False,electronics,Classified,3,3
+1085885753,way,Cantina,,,restaurant,,,https://cantinang.com/,,,,,9.0904886,7.4941615,False,restaurant,Classified,3,3
+1086236989,way,New Yorker,,,restaurant,,,,24/7,Shehu Shagari Way,Abuja,,9.0850293,7.4894896,False,restaurant,Classified,3,3
+1087204142,way,,,mall,,,,,,,,,9.0787966,7.4790471,False,mall,Classified,3,3
+1087447485,way,Café de Vie,,,cafe,,,,,,,,9.0991003,7.4827302,False,cafe,Classified,3,3
+1105936591,way,,,,cafe,,,,,,,,9.1291377,7.3117814,False,cafe,Classified,4,1
+1117329702,way,Bakan Gizo Pharmacy & Stores,Bakan Gizo Pharmarcy & Stores,supermarket,,+234 815 084 8383,,,Mo-Fr 06:30-18:30,1st Avenue,Gwarinpa,900108,9.0890881,7.4127148,False,supermarket,Classified,3,2
+1122738882,way,Shagalinku,,,restaurant,,,,,,,,9.0454066,7.5014889,False,restaurant,Classified,3,3
+1125028499,way,Ojueleba,,,restaurant,,,,,,,,9.0274456,7.5859737,False,restaurant,Classified,2,4
+1207250005,way,Tulsi chanrai eye hospital,,optician,,,,,,,,,9.026725,7.4442149,False,optician,Classified,2,3
+1207250021,way,tapadia bukka,,,fast_food,,,,,,,,8.9976278,7.4302348,False,fast_food,Classified,2,2
+1207250025,way,Lasad super market,,supermarket,,,,,,,,,9.0268676,7.4567587,False,supermarket,Classified,2,3
+1238916929,way,Faplins Estate Mall,,mall,,,,,,,Abuja,,8.9701265,7.437394,False,mall,Classified,2,3
+1247387205,way,Intercontinental Plaza,,mall,,,,,,,Abuja,,9.0619009,7.4705538,False,mall,Classified,3,3
+1250868129,way,Barbieplace Supermarket,,supermarket,,,,,Mo-Sa 08:00-22:00,,Abuja,,9.0121895,7.4737041,False,supermarket,Classified,2,3
+1255704121,way,,,,cafe,,,,,,,,9.0795118,7.526491,False,cafe,Classified,3,4
+1263215706,way,CSS Bookshop,,books,,,,,,,,,9.0595869,7.4696223,False,books,Classified,3,3
+1272064812,way,Prixair Supermarket,Prixair,supermarket,,,,https://prixair.com/,,Markus Kangye Boulevard,Abuja,,9.0010332,7.4639929,False,supermarket,Classified,2,3
+1272064817,way,,,,,,,,,,,,8.9978611,7.470505,False,,Unclassified,2,3
+1272064818,way,,,,,,,,,,,,8.9978021,7.4706379,False,,Unclassified,2,3
+1272064819,way,,,,,,,,,,,,8.9976817,7.4705781,False,,Unclassified,2,3
+1272064820,way,,,,,,,,,,,,8.997569,7.4705205,False,,Unclassified,2,3
+1272064821,way,,,,,,,,,,,,8.9974716,7.4704662,False,,Unclassified,2,3
+1272064822,way,,,,,,,,,,,,8.9977495,7.4704562,False,,Unclassified,2,3
+1272064823,way,,,,,,,,,,,,8.9976412,7.4704008,False,,Unclassified,2,3
+1272064824,way,,,,,,,,,,,,8.9975263,7.4703454,False,,Unclassified,2,3
+1272064825,way,,,,,,,,,,,,8.9980547,7.4712149,False,,Unclassified,2,3
+1272064826,way,,,,,,,,,,,,8.9979256,7.471164,False,,Unclassified,2,3
+1272064827,way,,,,,,,,,,,,8.9979814,7.4713722,False,,Unclassified,2,3
+1272064828,way,,,,,,,,,,,,8.99786,7.4713091,False,,Unclassified,2,3
+1272064829,way,,,,,,,,,,,,8.9977429,7.4712526,False,,Unclassified,2,3
+1272064830,way,,,,,,,,,,,,8.9978042,7.4710853,False,,Unclassified,2,3
+1272064831,way,,,,,,,,,,,,8.9980722,7.4708937,False,,Unclassified,2,3
+1272064832,way,,,,,,,,,,,,8.9981378,7.4707653,False,,Unclassified,2,3
+1272064834,way,,,,,,,,,,,,8.9989923,7.4711573,False,,Unclassified,2,3
+1272064835,way,,,,,,,,,,,,8.9989441,7.4712614,False,,Unclassified,2,3
+1272064836,way,,,,,,,,,,,,8.9988894,7.4713589,False,,Unclassified,2,3
+1272064837,way,,,,,,,,,,,,8.9976806,7.470886,False,,Unclassified,2,3
+1272064838,way,,,,,,,,,,,,8.997569,7.4708306,False,,Unclassified,2,3
+1272064839,way,,,,,,,,,,,,8.9974574,7.4707774,False,,Unclassified,2,3
+1272064840,way,,,,,,,,,,,,8.9974049,7.4706069,False,,Unclassified,2,3
+1272064841,way,,,,,,,,,,,,8.9972922,7.4708472,False,,Unclassified,2,3
+1272064842,way,,,,,,,,,,,,8.9976237,7.4707044,False,,Unclassified,2,3
+1272064843,way,,,,,,,,,,,,8.9977353,7.4707707,False,,Unclassified,2,3
+1272064844,way,,,,,,,,,,,,8.9975165,7.4706556,False,,Unclassified,2,3
+1272064845,way,,,,,,,,,,,,8.9975991,7.4710074,False,,Unclassified,2,3
+1272064846,way,,,,,,,,,,,,8.997434,7.4709321,False,,Unclassified,2,3
+1272064848,way,,,,,,,,,,,,9.0000249,7.4717344,False,,Unclassified,2,3
+1272064849,way,,,,,,,,,,,,8.9999648,7.4718518,False,,Unclassified,2,3
+1272064850,way,,,,,,,,,,,,9.0000906,7.4715949,False,,Unclassified,2,3
+1272064851,way,,,,,,,,,,,,8.9999921,7.4715438,False,,Unclassified,2,3
+1272064852,way,,,,,,,,,,,,8.9998652,7.4717831,False,,Unclassified,2,3
+1272064853,way,,,,,,,,,,,,8.9997536,7.4717366,False,,Unclassified,2,3
+1272064854,way,,,,,,,,,,,,8.9996552,7.4716835,False,,Unclassified,2,3
+1272064855,way,,,,,,,,,,,,8.9999199,7.4716712,False,,Unclassified,2,3
+1272064856,way,,,,,,,,,,,,8.9992417,7.4717893,False,,Unclassified,2,3
+1272064857,way,,,,,,,,,,,,8.9997033,7.4719536,False,,Unclassified,2,3
+1272064858,way,,,,,,,,,,,,8.9997132,7.472101,False,,Unclassified,2,3
+1272064859,way,,,,,,,,,,,,8.9995119,7.4720035,False,,Unclassified,2,3
+1272064860,way,,,,,,,,,,,,8.9993237,7.4715593,False,,Unclassified,2,3
+1274075736,way,Biobak Kitchen,,,restaurant,,,,,,,,9.0324702,7.4977458,False,restaurant,Classified,2,3
+1274785881,way,Annish Unisex Salon & Spa,,beauty,,0803 384 5944,info@annishsalonspa.com.ng,https://annishsalonspa.com.ng,24/7,"Buchanan Crescent, Aminu Kano Cres, Wuse 2",Abuja,904101,9.0853497,7.4712844,False,beauty,Classified,3,3
+1274817963,way,Prince Ebeano Supermarket,,supermarket,,,,,,,,,9.0649811,7.4729398,True,supermarket,Classified,3,3
+1283367530,way,H-Medix,,mall,,,,,,Yakubu Gowon Crescent,,,9.0432899,7.5265203,True,mall,Classified,2,4
+1293687143,way,Slot,Slot,mobile_phone,,,,,,Ahmadu Bello Way,,,9.0296972,7.4925898,False,mobile_phone,Classified,2,3
+1293690229,way,Auto Prince Auto Centre,,car_repair,,+234 809 627 7434,,,,,,,9.029582,7.4924655,False,car_repair,Classified,2,3
+1294705134,way,Bluestar,,tiles,,,,,,,,,9.0295486,7.4923283,False,tiles,Classified,2,3
+1303733895,way,Green Access Pharmacy Ltd.,,,pharmacy,,,,Mo-Sa 08:00-18:30; Su 16:00-18:30,,,,8.9929094,7.3631162,False,pharmacy,Classified,2,2
+1313192781,way,Dummec Plaza,,mall,,,,,,,,,9.0329128,7.4718234,False,mall,Classified,2,3
+1315760044,way,Dabo Mall,,mall,,,,,,Ladoke Akintola Boulevard,,,9.0183055,7.4928114,False,mall,Classified,2,3
+1323129089,way,Cok Best Mall,,mall,,,,,,,,,9.1463746,7.3063843,False,mall,Classified,4,1
+1327897357,way,Big Ideas Supermarket and Pharmacy,,supermarket,,+2348052216000,,,,"69 Road, 6th Avenue",Gwarinpa Estate,,9.1170708,7.3821292,False,supermarket,Classified,3,2
+1379646813,way,Sunflower Mall,,mall,,,,,,,,,8.9790334,7.4688899,False,mall,Classified,2,3
+1411437160,way,Chester Fries,,,restaurant,,,,,Bamako Street,,,9.0541332,7.4608153,False,restaurant,Classified,3,3
+1411618299,way,Wash Wise Laundry,,laundry,,+2348169163239,talktowashwise@gmail.com,,24/7,fola daniel cres.,abuja,900108,9.1102246,7.4291141,False,laundry,Classified,3,2
+1411662859,way,Chicken Republic,Chicken Republic,,fast_food,,,,Mo-Su 08:00-22:00,PA Michael Imoudu Avenue,,,9.10351,7.4046751,True,fast_food,Classified,3,2
+1411786437,way,Emadeb Food Mart,,convenience,,,,,,,,,9.0859244,7.4598181,False,convenience,Classified,3,3
+1412362971,way,IFESOLOX ABUJA,IFESOLOX,electronics,,+2349028621860,support@ifesolox.com,https://ifesolox.com,Mo-Sa 08:00-17:00,"AMAC Shopping Plaza Phase 2, Lugbe",ABUJA,900107,8.9305292,7.3278147,False,electronics,Classified,1,1
+1431372606,way,Iyemi Plaza,,mall,,,,,,,,,8.9943945,7.4691102,False,mall,Classified,2,3
+1455149783,way,Century Mall,,mall,,,,,,,,,9.0024895,7.4700999,False,mall,Classified,2,3
+1458433408,way,,,,restaurant,,,,,,,,9.0153843,7.3970211,False,restaurant,Classified,2,2
+1527442674,way,GSM Village,,telecommunication,marketplace,,,,,,,,9.0537428,7.4699769,False,telecommunication,Classified,3,3
+14472479,relation,Discovery Mall,,mall,,,,,,Adetokunbo Ademola Crescent,Abuja,,9.0746163,7.4753363,False,mall,Classified,3,3
